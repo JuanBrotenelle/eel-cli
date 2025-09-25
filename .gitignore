@@ -4,8 +4,6 @@
 *.dll
 *.so
 *.dylib
-eel-cli
-eel-cli-*
 
 # Test binary, built with `go test -c`
 *.test
