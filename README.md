@@ -13,7 +13,7 @@ CLI utility for creating and managing Eel projects with Vite.
 ## Installation
 
 ```powershell
-irm https://raw.githubusercontent.com/JuanBrotenelle/eel-cli/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/JuanBrotenelle/eel-cli/master/scripts/install.ps1 | iex
 ```
 
 ## Usage
